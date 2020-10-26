@@ -23,3 +23,8 @@
 ![screenshot__4](https://user-images.githubusercontent.com/54463399/97143585-f9de0400-1788-11eb-9e10-e17364a4aa57.png)
 
 ![screenshot__5](https://user-images.githubusercontent.com/54463399/97143645-0febc480-1789-11eb-8c6e-3bd12f1ca52a.png)
+
+
+### Details on building upon project after the campaign is over :
+
+ *We will work on developing a dataset for classifying skin cancer and non-skin cancer images. As of now, our idea is limited to cancer patients only but we want to expand it to the general public so that anyone having doubts about a suspicious skin patch can use our application for self-diagnosis. Other useful features will be integrated to make our application more robust and user friendly like a system for continuous monitoring of a skin lesion. An AI-enabled system to increase the resolution and quality of the image for the deep learning model to classify them more accurately.*
