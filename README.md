@@ -11,3 +11,15 @@
 *  1- Contacting skin cancer specialists based on geographical locations 
 *  2- A premium feature including consultation with doctors through a text based interface 
 *  3- An app including all the features 
+
+
+### Images of the web app :
+![screenshot__1](https://user-images.githubusercontent.com/54463399/97143321-7b816200-1788-11eb-891f-7c94d1925aa3.png)
+
+![screenshot__2](https://user-images.githubusercontent.com/54463399/97143459-bedbd080-1788-11eb-8fb3-310bb536ba38.png)
+
+![screenshot__3](https://user-images.githubusercontent.com/54463399/97143530-dc109f00-1788-11eb-9cef-83bcfa5cfc34.png)
+
+![screenshot__4](https://user-images.githubusercontent.com/54463399/97143585-f9de0400-1788-11eb-9e10-e17364a4aa57.png)
+
+![screenshot__5](https://user-images.githubusercontent.com/54463399/97143645-0febc480-1789-11eb-8c6e-3bd12f1ca52a.png)
