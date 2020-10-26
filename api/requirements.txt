@@ -1,0 +1,12 @@
+﻿Flask==1.1.2
+gunicorn==20.0.4
+h5py==2.10.0
+Keras-Preprocessing==1.1.2
+
+numpy==1.19.2
+
+Pillow==7.2.0
+
+
+tensorflow==2.2.1
+
