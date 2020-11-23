@@ -28,3 +28,8 @@
 ### Details on building upon project after the campaign is over :
 
  *We will work on developing a dataset for classifying skin cancer and non-skin cancer images. As of now, our idea is limited to cancer patients only but we want to expand it to the general public so that anyone having doubts about a suspicious skin patch can use our application for self-diagnosis. Other useful features will be integrated to make our application more robust and user friendly like a system for continuous monitoring of a skin lesion. An AI-enabled system to increase the resolution and quality of the image for the deep learning model to classify them more accurately.*
+
+### Created by :
+* Rudra Prasad Dash (https://github.com/HOTSONHONET)
+* Kumar Abhishek (https://github.com/white-beard)
+* Saswat Mishra (https://github.com/SaswatM-62)
